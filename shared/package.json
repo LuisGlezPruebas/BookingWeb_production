@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "drizzle-orm": "^0.41.0",
+    "drizzle-zod": "^0.7.0",
+    "zod": "^3.24.2"
+  }
+}
